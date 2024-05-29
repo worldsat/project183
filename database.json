@@ -57,7 +57,7 @@
       "Name": "More"
     }
   ],
-  "Foods": [
+   "Foods": [
     {
       "BestFood": true,
       "CategoryId": 0,
@@ -145,7 +145,7 @@
     {
       "BestFood": false,
       "CategoryId": 0,
-      "Description": "Embark on a culinary journey to the Mediterranean with the Mediterranean Joy pizza. Laden with briny olives, creamy feta cheese, sun-kissed tomatoes, and a sprinkle of oregano, this pizza captures the essence of Mediterranean cuisine. Each bite is a delightful exploration of robust and wholesome flavors.",
+      "Description": "https://firebasestorage.googleapis.com/v0/b/fir-test-aa9c8.appspot.com/o/Mediterranean%20Joy.jpg?alt=media&token=d1fba67f-e182-4c77-8ec2-cb9b1f459605",
       "Id": 6,
       "ImagePath": "https://firebasestorage.googleapis.com/v0/b/project162-foodapp.appspot.com/o/Mediterranean%20Joy.jpg?alt=media&token=2855007a-925e-4d0d-9167-5a41dcb96065",
       "LocationId": 1,
